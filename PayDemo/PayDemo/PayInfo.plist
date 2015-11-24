@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WXPay</key>
+	<dict>
+		<key>appid</key>
+		<string>wx38baa215cc9a46bb</string>
+		<key>mch_id</key>
+		<string>1253257501</string>
+		<key>notify_url</key>
+		<string>http://120.24.84.201:10080/ws-biz/pay/alipay.yun9</string>
+		<key>key</key>
+		<string>6DB14B85EF21E7247DE90DA0DB12057A</string>
+		<key>trade_type</key>
+		<string>APP</string>
+	</dict>
+	<key>Alipay</key>
+	<dict>
+		<key>privateKey</key>
+		<string>MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBALlOqB3MOlDvGMAK
+LMRnM4DGhxgi/nO2QTVdHaFuytUHRXs/QKD6asmsFCdZSzqN4KX16VAGmst/1Ltf
+oUHwmcgbCd96VGYOEthGia2XYDnMVXdaMkw8jbUvIxhH0NlEf2rqucjOjPAIXfmd
+9HyXAqo0ZzBGmfknuY0Ru2cQjxZ9AgMBAAECgYBn7xwQCnoy5sgE/i/5wMB8W91t
+xkLdd72/RojWAKQ3M6re461GHO5ESwXKxCSTpPv5WaIQxoOP3BTfO1Xg/Cfjxgh7
+xHCvP5jnFjC1nFG/qd6t7W1O2Doa136Kuv2CYy3mCo0bIe1RxYZ30zWQBOmb3nVQ
+TXENoZb68D1R/hc0AQJBAOBIVNpviCeiP8inR9BH1B9BT0q77scCvjZoghUEM5Np
+10CUWKZ+Efp48RJWuzck/CNsNWEiDaJkujgNi7YOPIECQQDTg07yUoSAk5EEqYbv
+c7AEev7Jx/ydTafxC1vsShh5r9hjC4EvM1JQMdsjp6Z5cSsFu0OH0JH7KnnZjU2l
+A8v9AkBibvxmvgp4spnh26EGBXBQo15Eg4TBbS/EO0vUI3rrWMly+2iI8c28KzZK
+gSw7gIz0kvo+fi6TtjeQgElwBoGBAkBoX5+RjI6+NBOXzWA8wUXWsCsSv5E0vqFl
+HUnbLCUvx0psdbzl4dl4oWGWEqDfxKyKQ4JrfszKuIcwh74M8/axAkEAmyt+uO2D
+s4Xog+X3ZK9rQ7Ad1UrYVl5OlRgWIFHt7631pSq/WEId4z2uRsJZaeLrcoyy4VdM
+s3oVqnSB9Ng/ug==</string>
+		<key>appID</key>
+		<string>2015051100069379</string>
+		<key>seller</key>
+		<string>2088911050457424</string>
+		<key>partner</key>
+		<string>2088911050457424</string>
+		<key>appScheme</key>
+		<string>payDemo</string>
+		<key>service</key>
+		<string>mobile.securitypay.pay</string>
+		<key>notifyURL</key>
+		<string>http://120.24.84.201:10080/ws-biz/pay/alipay.yun9</string>
+		<key>paymentType</key>
+		<string>1</string>
+		<key>inputCharset</key>
+		<string>utf-8</string>
+		<key>itBPay</key>
+		<string>30m</string>
+		<key>showUrl</key>
+		<string>m.alipay.com</string>
+	</dict>
+</dict>
+</plist>
